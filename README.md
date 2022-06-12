@@ -1,0 +1,2 @@
+# KCK
+ Komunikacja Człowiek-Komputer
